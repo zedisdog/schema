@@ -1,7 +1,6 @@
 {
     "name": "dezsidog/schema",
     "description": "schema builder and parser",
-    "version": "0.6.0-dev",
     "type": "library",
     "authors": [
         {
