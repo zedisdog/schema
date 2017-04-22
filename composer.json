@@ -1,5 +1,5 @@
 {
-    "name": "zedisdog/schema",
+    "name": "dezsidog/schema",
     "description": "schema builder and parser",
     "type": "library",
     "authors": [
