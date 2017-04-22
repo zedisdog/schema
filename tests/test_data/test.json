@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "title": "material",
+    "properties": {
+        "name":{
+            "title":"名称",
+            "type":"string",
+            "required":true
+        },
+        "format":{
+            "title":"规格",
+            "type":"string",
+            "required":false
+        },
+        "life":{
+            "title":"保质期",
+            "type":"integer"
+        }
+    }
+}

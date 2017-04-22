@@ -1,0 +1,22 @@
+{
+    "name": "dezsidog/schema",
+    "description": "schema builder and parser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zed",
+            "email": "zedsmail@163.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Schema\\":"src/"
+        }
+    },
+    "require": {
+        "laravel/framework": "^5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
